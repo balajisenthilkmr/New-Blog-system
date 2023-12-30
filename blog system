@@ -1,0 +1,3 @@
+mkdir my-blog-system
+cd my-blog-system
+npm init -y
