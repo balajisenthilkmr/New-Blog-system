@@ -1,0 +1,8 @@
+<!-- views/index.ejs -->
+<h1>Blog Index</h1>
+<% blogs.forEach(blog => { %>
+  <h2><%= blog.title %></h2>
+  <p><%= blog.content %></p>
+  <p>Created At: <%= blog.created_at %></p>
+  <hr />
+<% }) %>
