@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/balajisenthilkmr/New-Blog-system/issues"
   },
-  "homepage": "https://github.com/balajisenthilkmr/New-Blog-system#readme"
+  "homepage": "https://github.com/balajisenthilkmr/New-Blog-system#readme",
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  }
 }
